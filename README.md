@@ -28,7 +28,7 @@ PC_Registration_Master is a Python-based application designed to handle and proc
 
 1. **Clone the Repository**:
    ```bash
-    git clone https://github.com/yourusername/HIT-PointCloud-Registration.git
+    git clone https://github.com/yourusername/HIT-PointCloud-Registration.git](https://github.com/Tingz-sky/PC_Registration_Master.git
     cd HIT-PointCloud-Registration
    ```
    
